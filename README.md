@@ -1,2 +1,2 @@
-# JavaScript---
+# JavaScript---数据结构与算法
 这个是关于数据结构与算法的项目
